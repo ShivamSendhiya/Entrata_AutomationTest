@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="7" name="Test">
+    <classes>
+      <!--<class name="com.entrata.testcases.ValidateDropdownValues_Resources"/>-->
+      <class name="com.entrata.testcases.ValidateUI_HomePageTest"/>
+      <class name="com.entrata.testcases.ValidateUI_EnterField_WatchDemo"/>
+      <class name="com.entrata.testcases.Verify_Navigation_UI_SummitPage"/>
+      <class name="com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

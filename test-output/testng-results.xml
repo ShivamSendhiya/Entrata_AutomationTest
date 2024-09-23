@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T17:25:46 IST" name="Suite" finished-at="2024-09-23T17:26:32 IST" duration-ms="45542">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T17:25:46 IST" name="Test" finished-at="2024-09-23T17:26:32 IST" duration-ms="45542">
+      <class name="com.entrata.testcases.ValidateUI_HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.testcases.ValidateUI_HomePageTest@1a6d8329]" started-at="2024-09-23T17:25:46 IST" name="setUp" finished-at="2024-09-23T17:25:54 IST" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homenPageTitleTest()[pri:1, instance:com.entrata.testcases.ValidateUI_HomePageTest@1a6d8329]" started-at="2024-09-23T17:25:54 IST" name="homenPageTitleTest" finished-at="2024-09-23T17:25:54 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homenPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.testcases.ValidateUI_HomePageTest@1a6d8329]" started-at="2024-09-23T17:25:54 IST" name="tearDown" finished-at="2024-09-23T17:25:55 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.testcases.ValidateUI_HomePageTest -->
+      <class name="com.entrata.testcases.ValidateUI_EnterField_WatchDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.testcases.ValidateUI_EnterField_WatchDemo@74d1dc36]" started-at="2024-09-23T17:25:55 IST" name="setUp" finished-at="2024-09-23T17:26:01 IST" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="enterFieldsWatchDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.entrata.testcases.ValidateUI_EnterField_WatchDemo@74d1dc36]" started-at="2024-09-23T17:26:01 IST" name="enterFieldsWatchDemo" data-provider="data-provider" finished-at="2024-09-23T17:26:05 IST" duration-ms="3934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shivam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sendhiya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssendhiya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9960155497]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFieldsWatchDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.testcases.ValidateUI_EnterField_WatchDemo@74d1dc36]" started-at="2024-09-23T17:26:05 IST" name="tearDown" finished-at="2024-09-23T17:26:05 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.testcases.ValidateUI_EnterField_WatchDemo -->
+      <class name="com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage@74e28667]" started-at="2024-09-23T17:26:15 IST" name="setUp" finished-at="2024-09-23T17:26:21 IST" duration-ms="5501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="errorRegistrationValidatiom(java.lang.String)[pri:1, instance:com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage@74e28667]" started-at="2024-09-23T17:26:21 IST" name="errorRegistrationValidatiom" data-provider="data-provider" finished-at="2024-09-23T17:26:31 IST" duration-ms="10531" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorRegistrationValidatiom -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage@74e28667]" started-at="2024-09-23T17:26:31 IST" name="tearDown" finished-at="2024-09-23T17:26:32 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.testcases.Validate_FieldError_FirstName_Email_RegistrationPage -->
+      <class name="com.entrata.testcases.Verify_Navigation_UI_SummitPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.entrata.testcases.Verify_Navigation_UI_SummitPage@7161d8d1]" started-at="2024-09-23T17:26:05 IST" name="setUp" finished-at="2024-09-23T17:26:11 IST" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="summitPageValidatiom()[pri:0, instance:com.entrata.testcases.Verify_Navigation_UI_SummitPage@7161d8d1]" started-at="2024-09-23T17:26:11 IST" name="summitPageValidatiom" finished-at="2024-09-23T17:26:15 IST" duration-ms="4044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summitPageValidatiom -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.testcases.Verify_Navigation_UI_SummitPage@7161d8d1]" started-at="2024-09-23T17:26:15 IST" name="tearDown" finished-at="2024-09-23T17:26:15 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.testcases.Verify_Navigation_UI_SummitPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
