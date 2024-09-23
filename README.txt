@@ -1,4 +1,3 @@
-git clone https://github.com/naveenanimation20/PageObjectModel
-cd PageObjectModel
+git clone https://github.com/ShivamSendhiya/Entrata_AutomationTest.git
 mvn clean test
 mvn verify
